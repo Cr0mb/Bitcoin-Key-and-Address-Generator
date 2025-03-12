@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/457941dc-daa9-4f54-ab5a-d28d3ceb3c00)
+
+
 # Bitcoin-Key-and-Address-Generator
 This repository contains two Python scripts that generate Bitcoin keys, mnemonic phrases, and addresses. It demonstrates the process of creating Bitcoin private and public keys, converting them to addresses, and generating a mnemonic phrase for wallet backup.
 
